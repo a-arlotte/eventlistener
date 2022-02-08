@@ -1,0 +1,32 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow-x: hidden;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.grandparent {
+    width: 80%;
+    height: 80%;
+    background-color: red;
+}
+
+.parent {
+    width: 60%;
+    height: 60%;
+    background-color: green;
+}
+
+.child {
+    width: 40%;
+    height: 40%;
+    background-color: blue;
+}
