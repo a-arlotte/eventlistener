@@ -1,0 +1,25 @@
+{
+  "name": "event-listener",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://a-arlotte@github.com/a-arlotte/eventlistener.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a-arlotte/eventlistener/issues"
+  },
+  "homepage": "https://github.com/a-arlotte/eventlistener#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
